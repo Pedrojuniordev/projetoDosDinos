@@ -20,13 +20,13 @@ public class questaoUm {
 			caminhoDinos = "Montanha";
 			break;
 		case 3:
-			caminhoDinos = "Carvena";
+			caminhoDinos = "Caverna";
 			break;
 		default:
 			caminhoDinos = "Número invalido, tente novamente com números válidos";
 			break;
 		}
-	System.out.println("E caminho leva à " + caminhoDinos + "dos dinossauros");
+	System.out.println("E caminho leva à " + caminhoDinos + " dos dinossauros");
 		
 	}
 }

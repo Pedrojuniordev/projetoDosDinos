@@ -20,6 +20,15 @@ public class questaoDoisDois {
 		case "C":
 			System.out.println("Você encontra um Diplodocus.");
 			break;
+		case "a":
+			System.out.println("Você encontra um velociraptor.");
+			break;
+		case "b":
+			System.out.println("Você encontra um Triceraptos");
+			break;
+		case "c":
+			System.out.println("Você encontra um Diplodocus.");
+			break;
 		default:
 			System.out.println("Escolha inválida, Tente com novamente com digito válido");
 		}

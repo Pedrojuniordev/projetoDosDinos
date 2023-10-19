@@ -20,6 +20,15 @@ public class questaoTres {
 		 case "Z":
 			 System.out.println("Nesse caminho encontrará um Estegossauro");
 			 break;
+		 case "x":
+			 System.out.println("Nesse caminho encontrará um T-Rex");
+			 break;
+		 case "y":
+			 System.out.println("Nesse caminho encontrará um Pterodáctilo");
+			 break;
+		 case "z":
+			 System.out.println("Nesse caminho encontrará um Estegossauro");
+			 break;
 		default:
 			System.out.println("Opção incorreta, tente novamente com uma letra válida. ");
 			break;
