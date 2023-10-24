@@ -7,7 +7,7 @@ public class questaoTres {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Escolha uma letra entre X, Y, Z ");
+		System.out.println("Escolha uma letra entre X, Y, Z para ver o que encontrará no caminho: ");
 		 String escolha = scanner.next();
 		 
 		 switch (escolha) {
